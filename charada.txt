@@ -1,3 +1,4 @@
+
 abada
 abono
 abril
@@ -79,9 +80,9 @@ arena
 arido
 aries
 armar
+aroma
 arroz
 artes
-aspas
 assar
 assim
 assis
@@ -191,7 +192,6 @@ bumba
 bunda
 buque
 burra
-burro
 busto
 cabal
 caber
@@ -217,7 +217,6 @@ calvo
 camas
 campo
 canal
-canil
 canja
 canoa
 canon
@@ -249,7 +248,6 @@ cauda
 caule
 cavar
 ceder
-cedro
 cegos
 celas
 cenas
@@ -316,7 +314,6 @@ copas
 copia
 copos
 coral
-corda
 corja
 corpo
 corre
@@ -408,7 +405,6 @@ elfos
 elite
 enfim
 entao
-epica
 epico
 epoca
 errar
@@ -608,7 +604,6 @@ heroi
 hiato
 hidro
 hiena
-hifen
 hindu
 hinos
 hiper
@@ -1076,6 +1071,7 @@ prece
 preco
 presa
 preta
+preto
 prole
 prosa
 prova
@@ -1121,7 +1117,6 @@ redor
 refem
 refil
 regar
-reger
 regua
 reina
 reler
@@ -1129,7 +1124,6 @@ reluz
 remar
 remos
 renal
-rente
 repor
 retas
 reter
@@ -1201,6 +1195,7 @@ santo
 sapos
 sarau
 sarda
+sarja
 sarna
 sarro
 sauna
@@ -1275,6 +1270,7 @@ tabus
 tacas
 tacos
 talco
+tanga
 tango
 tanto
 tapar
@@ -1286,13 +1282,11 @@ tecer
 tecno
 tedio
 teias
-telao
 telas
 telha
 temer
 temor
 tempo
-tenis
 tenor
 tensa
 tenso
@@ -1387,6 +1381,7 @@ uteis
 vacas
 vacuo
 vagao
+vagar
 vagos
 valas
 valer
@@ -1412,7 +1407,6 @@ verbo
 verde
 verme
 vespa
-vetar
 vetor
 vetos
 vezes
@@ -1440,6 +1434,7 @@ vivos
 vocal
 voces
 vogal
+volei
 voraz
 vossa
 vosso
@@ -1458,13 +1453,4 @@ zinco
 ziper
 zonas
 
-sarja
-vagar
-vovos
-aroma
-volei
-vovos
-preto
-vovos
-tanga
-vovos
+hifen
